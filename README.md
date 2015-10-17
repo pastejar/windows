@@ -1,2 +1,4 @@
 # windows
-Windows extension for pastejar.
+Windows client for pastejar.
+
+#Compatability
